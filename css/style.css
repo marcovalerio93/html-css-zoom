@@ -4,3 +4,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    background-color: black;
+    height: 50px;
+    padding: 5px;
+    text-align: right;
+}
+
+header button{
+    color: #fff;
+    background-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
